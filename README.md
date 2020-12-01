@@ -1,3 +1,2 @@
-# hello-world
-test project
-this is my first test project on github
+# C++ Study
+start learn c++
